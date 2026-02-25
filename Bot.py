@@ -1,7 +1,7 @@
 import telebot
 import unicodedata
 
-TOKEN = '8790443602:AAGLJT5OWJYF0np5uQlXs5AK05va59c9S9o   # ← Replace with your token
+TOKEN = '8790443602:AAGLJT5OWJYF0np5uQlXs5AK05va59c9S9o'   # ← Replace with your token
 
 bot = telebot.TeleBot(TOKEN)
 
